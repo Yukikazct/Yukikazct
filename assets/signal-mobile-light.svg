@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="240" viewBox="0 0 400 240" role="img" aria-labelledby="title desc">
+<title id="title">Yukikazct — From signals to learning.</title>
+<desc id="desc">AI student at Shandong University. A decorative layered neural network, with small copper signals moving gently between its nodes.</desc>
+<style>.rest{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.rest{display:inline}}</style>
+<g fill="#252824">
+<text x="24" y="47" font-family="Georgia,Times New Roman,serif" font-size="28" font-weight="400" letter-spacing="-0.5">Yukikazct</text>
+<text x="25" y="75" fill="#555b53" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">From signals to learning.</text>
+<text x="25" y="99" fill="#72776e" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">AI student · Shandong University</text>
+</g>
+<g fill="none" stroke="#8d9689" stroke-width="0.8" stroke-opacity="0.22" stroke-linecap="round">
+<path d="M44 138 L145 132"/>
+<path d="M44 138 L145 151"/>
+<path d="M44 138 L145 171"/>
+<path d="M44 138 L145 191"/>
+<path d="M44 138 L145 210"/>
+<path d="M44 159 L145 132"/>
+<path d="M44 159 L145 151"/>
+<path d="M44 159 L145 171"/>
+<path d="M44 159 L145 191"/>
+<path d="M44 159 L145 210"/>
+<path d="M44 181 L145 132"/>
+<path d="M44 181 L145 151"/>
+<path d="M44 181 L145 171"/>
+<path d="M44 181 L145 191"/>
+<path d="M44 181 L145 210"/>
+<path d="M44 203 L145 132"/>
+<path d="M44 203 L145 151"/>
+<path d="M44 203 L145 171"/>
+<path d="M44 203 L145 191"/>
+<path d="M44 203 L145 210"/>
+<path d="M145 132 L246 138"/>
+<path d="M145 132 L246 159"/>
+<path d="M145 132 L246 181"/>
+<path d="M145 132 L246 203"/>
+<path d="M145 151 L246 138"/>
+<path d="M145 151 L246 159"/>
+<path d="M145 151 L246 181"/>
+<path d="M145 151 L246 203"/>
+<path d="M145 171 L246 138"/>
+<path d="M145 171 L246 159"/>
+<path d="M145 171 L246 181"/>
+<path d="M145 171 L246 203"/>
+<path d="M145 191 L246 138"/>
+<path d="M145 191 L246 159"/>
+<path d="M145 191 L246 181"/>
+<path d="M145 191 L246 203"/>
+<path d="M145 210 L246 138"/>
+<path d="M145 210 L246 159"/>
+<path d="M145 210 L246 181"/>
+<path d="M145 210 L246 203"/>
+<path d="M246 138 L356 154"/>
+<path d="M246 138 L356 188"/>
+<path d="M246 159 L356 154"/>
+<path d="M246 159 L356 188"/>
+<path d="M246 181 L356 154"/>
+<path d="M246 181 L356 188"/>
+<path d="M246 203 L356 154"/>
+<path d="M246 203 L356 188"/>
+</g>
+<g fill="none" stroke="#ae6c37" stroke-width="1.1" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round">
+<path id="network-flow-one" d="M44 159 L145 151 L246 181 L356 154"/>
+<path id="network-flow-two" d="M44 181 L145 191 L246 159 L356 188"/>
+</g>
+<g fill="#8d9689" fill-opacity="0.9">
+<circle cx="44" cy="138" r="3.7"/>
+<circle cx="44" cy="181" r="3.7"/>
+<circle cx="44" cy="203" r="3.7"/>
+<circle cx="145" cy="132" r="3.7"/>
+<circle cx="145" cy="171" r="3.7"/>
+<circle cx="145" cy="210" r="3.7"/>
+<circle cx="246" cy="138" r="3.7"/>
+<circle cx="246" cy="159" r="3.7"/>
+<circle cx="246" cy="203" r="3.7"/>
+<circle cx="356" cy="188" r="3.7"/>
+</g>
+<g fill="#ae6c37" fill-opacity="0.92">
+<circle cx="44" cy="159" r="3.7"/>
+<circle cx="145" cy="151" r="3.7"/>
+<circle cx="145" cy="191" r="3.7"/>
+<circle cx="246" cy="181" r="3.7"/>
+<circle cx="356" cy="154" r="3.7"/>
+</g>
+<g class="motion" fill="#ae6c37">
+<circle r="2.2" opacity="0">
+<animateMotion dur="12s" begin="-2s" repeatCount="indefinite" calcMode="paced"><mpath href="#network-flow-one" xlink:href="#network-flow-one"/></animateMotion>
+<animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="12s" begin="-2s" repeatCount="indefinite"/>
+</circle>
+<circle r="2.2" opacity="0">
+<animateMotion dur="12s" begin="-7s" repeatCount="indefinite" calcMode="paced"><mpath href="#network-flow-two" xlink:href="#network-flow-two"/></animateMotion>
+<animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="12s" begin="-7s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g class="rest" fill="#ae6c37" fill-opacity="0.85">
+<circle cx="195.5" cy="166.0" r="2.2"/>
+<circle cx="195.5" cy="175.0" r="2.2"/>
+</g>
+</svg>
