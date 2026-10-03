@@ -27,5 +27,20 @@ Right now, I'm studying **spiking neural networks**, **attention and optimizatio
 
 ---
 
-Python · PyTorch · NumPy · OpenCV · Java  
-[Yukikazct@gmail.com](mailto:Yukikazct@gmail.com)
+### Workbench
+
+<picture>
+  <source media="(max-width: 680px) and (prefers-color-scheme: dark)" srcset="assets/workbench-mobile-dark.svg">
+  <source media="(max-width: 680px)" srcset="assets/workbench-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/workbench-light.svg">
+  <img alt="Modeling: Python and PyTorch. Data and vision: NumPy and OpenCV. Coursework: Java." src="assets/workbench-light.svg" width="800">
+</picture>
+
+<a href="mailto:Yukikazct@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contact-light.svg">
+    <img alt="Email Yukikazct@gmail.com" src="assets/contact-light.svg" width="320" height="44">
+  </picture>
+</a>
